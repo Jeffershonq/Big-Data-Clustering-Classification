@@ -1,0 +1,10 @@
+Kisi- Kisi Big Data Processing Quiz LAB
+
+Spark SQL
+Load Data
+Query
+Visualization
+
+Machine Learning
+Load Data
+Classification.Clustering
